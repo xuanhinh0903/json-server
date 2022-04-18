@@ -20,74 +20,66 @@
     {
       "id": 1,
       "genre": "jacket",
-      "name": "COACH JACKET PROOF BLACK",
+      "name": "JACKET LAZER BLACK",
       "price": "450.000",
-      "material": "Vải dù",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/Jacket-Proof-Black-768x960.jpg"
+      "material": "Vải dù Polyester Mero Xit",
+      "picture": "https://lh3.google.com/u/0/d/1yfJe4_H4EzPVNviFsPas0hO5C9j1djw_=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 2,
       "genre": "jacket",
-      "name": "VARSITY FELT SLY GREEN",
-      "price": "690.000",
-      "material": "Nỉ dạ",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/Varsity-felt-SLY-green_1-768x960.jpg"
+      "name": "JACKET LAZER GREY",
+      "price": "450.000",
+      "material": "Vải dù Polyester Mero Xit",
+      "picture": "https://lh3.google.com/u/0/d/1_KNBrB5mRD5XS_gKuIIeEUaXoTN8D28s=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 3,
       "genre": "jacket",
-      "name": "VARSITY FELT SLY BROWN",
-      "price": "690.000",
-      "material": "Nỉ dạ",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/Varsity-felt-SLY-brown_1-768x960.jpg"
+      "name": "COACH JACKET PROOF BLACK",
+      "price": "210.000",
+      "material": "Vải dù Polyester Mero Xit",
+      "picture": "https://lh3.google.com/u/0/d/1l8HHgt495wMv1zhMz1DdV8pfkiWEeSkz=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 4,
       "genre": "jacket",
-      "name": "JACKET CORDUROY BROWN",
-      "price": "590.000",
-      "material": "Vải Coduroy",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/10/Jacket-Coduroy-Brown_1-768x960.jpg"
+      "name": "JACKET WRINKLED NYLON GREY",
+      "price": "210.000",
+      "material": "Dù nhăn (Wrinkled), bên trong lớt 1 lớp vải lướt.",
+      "picture": "https://lh3.google.com/u/0/d/1ZNu69qZVGvSIfSWQMS73kBw9D8Qh85od=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 5,
       "genre": "jacket",
-      "name": "JACKET CORDUROY GREY",
-      "price": "590.000",
-      "material": "Vải Coduroy",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/Jacket-Coduroy-Grey_1v2-768x960.jpg"
+      "name": "JACKET WRINKLED NYLON BLACK",
+      "price": "210.000",
+      "material": "Dù nhăn (Wrinkled), bên trong lớt 1 lớp vải lướt.",
+      "picture": "https://lh3.google.com/u/0/d/1cl07eDdRXeGOPEnxbJ3SdmSAsLZrTRw9=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 6,
-      "genre": "jacket",
-      "name": "JACKET CORDUROY BLACK GREY",
+      "genre": "hoodie",
+      "name": "HOODIE 253 TAN",
       "price": "590.000",
-      "material": "Vải Coduroy",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/10/Jacket-Coduroy-black_1-768x960.jpg"
+      "material": "Nỉ Bông",
+      "picture": "https://lh3.google.com/u/0/d/1gKnVgGMmYdUhwIrih69GiuEFYc9EbqMe=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 7,
-      "genre": "jacket",
-      "name": "JACKET WRINKLED NYLON GREY",
-      "price": "420.000",
-      "material": "Dù nhăn",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/10/jacket_wrinkler-nylon_grey_1-768x960.jpg"
-    },
-    {
-      "id": 7,
-      "genre": "jacket",
-      "name": "JACKET WRINKLED NYLON BLACK",
-      "price": "420.000",
-      "material": "Dù nhăn",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/10/jacket_wrinkler-nylon_black_1-768x960.jpg"
+      "genre": "hoodie",
+      "name": "HOODIE 253 GREEN",
+      "price": "590.000",
+      "material": "Nỉ Bông",
+      "picture": "https://lh3.google.com/u/0/d/1ol-Ba0mWxbELb2Yg2wxrGWiIsyWDmJVm=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 8,
-      "genre": "jacket",
-      "name": "JACKET WRINKLED NYLON WHITE",
-      "price": "420.000",
-      "material": "Dù nhăn",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/10/jacket_wrinkler-nylon_white_1-768x960.jpg"
+      "genre": "hoodie",
+      "name": "HOODIE POPPY MATCH",
+      "price": "450.000",
+      "material": "Nỉ Bông",
+      "picture": "https://lh3.google.com/u/0/d/1gBtN47ViOgMZOiorpPppxiEmW2tP1Tue=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 9,
@@ -95,87 +87,87 @@
       "name": "HOODIE ZIP SLY GREEN",
       "price": "450.000",
       "material": "Nỉ Bông",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/Hd-zip-SLY-Green-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1nCwJ9r4I5lZpykKYfGDBqH_UT7Ntzo3y=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 10,
       "genre": "hoodie",
       "name": "HOODIE ZIP SLY BLUE",
-      "price": "450.000",
-      "material": "Nỉ Bông",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/Hd-zip-SLY-Blue-768x960.jpg"
+      "price": "490.000",
+      "material": "Nỉ Bông chính phẩm",
+      "picture": "https://lh3.google.com/u/0/d/1A9UxOS0dvxZ7lkiA5r_rLbQAhR9I1ILy=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 11,
       "genre": "hoodie",
       "name": "HOODIE ZIP SLY NEON",
-      "price": "450.000",
-      "material": "Nỉ Bông",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/Hd-zip-SLY-Neon-768x960.jpg"
+      "price": "490.000",
+      "material": "Nỉ Bông chính phẩm",
+      "picture": "https://lh3.google.com/u/0/d/17tOZVFmHsMByE79QeEUlJ6dxk7v9z95o=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 12,
       "genre": "hoodie",
       "name": "HOODIE ZIP SLY BLACK",
-      "price": "450.000",
-      "material": "Nỉ Bông",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/Hd-zip-SLY-Black-768x960.jpg"
+      "price": "490.000",
+      "material": "Nỉ Bông chính phẩm",
+      "picture": "https://lh3.google.com/u/0/d/1guTfhY-nSysi7aq5w8hJrcMKn152WoK7=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 13,
       "genre": "hoodie",
-      "name": "HOODIE ALLSTAR BLACK",
-      "price": "490.000",
-      "material": "Nỉ Bông chính phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/hoodie-allstar-black-768x960.jpg"
-    },
-    {
-      "id": 14,
-      "genre": "hoodie",
       "name": "HOODIE ALLSTAR WHITE",
       "price": "490.000",
       "material": "Nỉ Bông chính phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/hoodie-allstar-white-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1g2tZegjM7v7p3drGW5E2kQWFy8GNWZBy=w300-h285-p-k-nu-iv1"
     },
     {
-      "id": 15,
+      "id": 14,
       "genre": "sweater",
       "name": "SWEATER ALLSTAR BLACK",
       "price": "420.000",
       "material": "Chân cua chính phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/12/sweater-allstar-black-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1bEWFrbxLxfyxoO-QImDpY32S7GONbhEC=w300-h285-p-k-nu-iv1"
+    },
+    {
+      "id": 15,
+      "genre": "bottoms",
+      "name": "SHORT UNIVERSE",
+      "price": "350.000",
+      "material": "Vải Picigen Co giãn 4 Chiều",
+      "picture": "https://lh3.google.com/u/0/d/1yLu7B1TWkz6FW3Ww8X55aa8NKbcFRKNh=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 16,
       "genre": "bottoms",
-      "name": "JOGGER SLY BLACK",
-      "price": "350.000",
-      "material": "Nỉ Bông",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/Jogger-SLY-Black-768x960.jpg"
+      "name": "PANTS UNIVERSE",
+      "price": "380.000",
+      "material": "Vải Picigen Co giãn 4 Chiều",
+      "picture": "https://lh3.google.com/u/0/d/1Qs5gHlRbzyssHLfsm5FYN6pRu2EXnSRH=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 17,
       "genre": "bottoms",
-      "name": "SHORT WRINKLED NYLON ORANGE",
+      "name": "BOX PANTS BLACK",
       "price": "290.000",
       "material": "Dù nhăn",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/10/short_wrinkler-nylon_orange_1a-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1g2KNaSupNm4yPAztzeeQ7IaSa-CoNzL3=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 18,
       "genre": "bottoms",
-      "name": "SHORT WRINKLED NYLON BLACK",
-      "price": "290.000",
+      "name": "BOX SHORT BLACK",
+      "price": "320.000",
       "material": "Dù nhăn",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/10/short_wrinkler-nylon_black_1a-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/19Q5a0xXflO_1trZOEA7mlCipnZkOhWcc=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 19,
       "genre": "bottoms",
-      "name": "PANT WRINKLED NYLON",
-      "price": "320.000",
-      "material": "Dù nhăn",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/10/pant_wrinkler-nylon_black_1a-768x960.jpg"
+      "name": "JOGGER SLY BLACK",
+      "price": "390.000",
+      "material": "Nỉ bông",
+      "picture": "https://lh3.google.com/u/0/d/1mpDREnmpDUijq-CSKvu3qlMcrphT9mcR=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 20,
@@ -183,7 +175,7 @@
       "name": "PANT CHAOS TAN",
       "price": "390.000",
       "material": "Nỉ bông",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/07/pant-chaos-tan-1-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/169Q92gZFukL3AL1T1SBgzs0S3ZIjNK2f=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 21,
@@ -191,281 +183,209 @@
       "name": "PANT CHAOS BLACK",
       "price": "390.000",
       "material": "Nỉ bông",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/07/pant-chaos-black-1-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1hD5OXcKlnyTitSNM9Qtyuk2fwTAPN1Dd=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 22,
-      "genre": "bottoms",
-      "name": "SHORT RUBBER",
+      "genre": "tshirt",
+      "name": "T-SHIRT BOBCAT WHITE",
       "price": "300.000",
-      "material": "Vải Picigen",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/04/short-Rubber_1-768x960.jpg"
+      "material": "100% Cotton Chính Phẩm 2 chiều, định lượng 240gsm",
+      "picture": "https://lh3.google.com/u/0/d/10DSRU8y3NgvupsRORD5R-nBJMn2i-8Xz=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 23,
       "genre": "tshirt",
-      "name": "T-SHIRT ANGRY POPPY BLACK",
+      "name": "T-SHIRT BOBCAT BEAN",
       "price": "320.000",
-      "material": "100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/tee-angry-poppy-black_b-768x960.jpg"
+      "material": "100% Cotton Chính Phẩm 2 chiều, định lượng 240gsm",
+      "picture": "https://lh3.google.com/u/0/d/13q5-VA6u2WqJUT2UFdIYNSHaI3FnYkTb=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 24,
       "genre": "tshirt",
-      "name": "T-SHIRT ANGRY POPPY WHITE",
+      "name": "T-SHIRT ABSTRACT BLUE",
       "price": "320.000",
-      "material": "100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/tee-angry-poppy-white_a-768x960.jpg"
+      "material": "100% Cotton Chính Phẩm 2 chiều, định lượng 240gsm",
+      "picture": "https://lh3.google.com/u/0/d/1A8z8-pJn051bdziY222H1qNck_2nbc0B=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 25,
       "genre": "tshirt",
-      "name": "T-SHIRT MULTICOLOR WHITE",
+      "name": "T-SHIRT ABSTRACT BLACK",
       "price": "320.000",
-      "material": "100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/tee-multicolor-white-a-768x960.jpg"
+      "material": "100% Cotton Chính Phẩm 2 chiều, định lượng 240gsm",
+      "picture": "https://lh3.google.com/u/0/d/1dHduJ0PWD6E1470As-fgnFY5K83iRJ_B=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 26,
       "genre": "tshirt",
-      "name": "T-SHIRT AUTHENTIC KINGBLUE",
+      "name": "T-SHIRT TECH MERCH WHITE",
       "price": "290.000",
       "material": "100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/T-shirt-Authentic-Blue-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1cmuiFnJ9IlmBkyMXBNrDdlrXAgH-uSI6=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 27,
       "genre": "tshirt",
-      "name": "T-SHIRT AUTHENTIC CARROT",
+      "name": "T-SHIRT TECH MERCH BLACK",
       "price": "290.000",
       "material": "100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/T-shirt-Authentic-Carrot-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1j3JaywuAAZaQh1Zmv1zhckPbgQjKqN0J=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 28,
       "genre": "tshirt",
-      "name": "T-SHIRT AUTHENTIC GREY",
+      "name": "T-SHIRT GALAXY WHITE",
       "price": "290.000",
       "material": "100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/T-shirt-Authentic-Grey-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/16aJyWzqpqdTIIhe6f5aw8hZJPbqTFWzC=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 29,
       "genre": "tshirt",
-      "name": "LONGTEE S WHITE",
+      "name": "T-SHIRT GALAXY BLACK",
       "price": "320.000",
       "material": "100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/12/Longtee-S-white-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/182OK5b7uUMCreD8HaLX8kw04QTxiEbRi=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 30,
       "genre": "tshirt",
-      "name": "LONGTEE S TAN",
+      "name": "T-SHIRT ANGRY POPPY BLACK",
       "price": "320.000",
       "material": "100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/12/Longtee-S-tan-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1mkhiC5Qk3__nW9SpIQV5YpLShOQZGsnm=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 31,
       "genre": "tshirt",
-      "name": "LONGTEE S BLACK",
+      "name": "T-SHIRT ANGRY POPPY WHITE",
       "price": "320.000",
       "material": "100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/12/Longtee-S-black-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1_qrvmDAzJV56hNWrXFSUf7mmKH7TYWjU=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 32,
       "genre": "tshirt",
-      "name": "POLO SIMPLE PINK",
+      "name": "T-SHIRT AUTHENTIC WHITE",
       "price": "290.000",
       "material": "Vải thun 100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/12/polo-Simple-Pink-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1QIRn8UjkpWmdkX0W7lEawg9umKqN40wS=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 33,
       "genre": "tshirt",
-      "name": "POLO SIMPLE BLUE",
+      "name": "T-SHIRT AUTHENTIC KINGBLUE",
       "price": "290.000",
       "material": "Vải thun 100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/polo-Simple-Blue-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1XglZcaE6k426Anc9djSPWnE7HHsxCJeX=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 34,
       "genre": "tshirt",
-      "name": "POLO SIMPLE BROWN",
+      "name": "T-SHIRT AUTHENTIC CARROT",
       "price": "290.000",
       "material": "Vải thun 100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/polo-Simple-Brown-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1Gv-SYyAYN8xeEVZoNFy_K8d4u8w8mgV8=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 35,
       "genre": "tshirt",
-      "name": "POLO SIMPLE GREEN",
+      "name": "T-SHIRT AUTHENTIC GREY",
       "price": "290.000",
       "material": "Vải thun 100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/polo-Simple-Green-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1emlFofMbr4YmFCQrWU_RRk-Hhrlgsni6=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 36,
-      "genre": "tshirt",
-      "name": "POLO SIMPLE WHITE",
-      "price": "290.000",
-      "material": "Vải thun 100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/polo-Simple-White-768x960.jpg"
+      "genre": "sweater",
+      "name": "SWEATER ALLSTAR BLACK",
+      "price": "420.000",
+      "material": "Chân cua chính phẩm",
+      "picture": "https://lh3.google.com/u/0/d/1bEWFrbxLxfyxoO-QImDpY32S7GONbhEC=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 37,
-      "genre": "tshirt",
-      "name": "T-SHIRT SIMPLE YELLOW",
-      "price": "320.000",
-      "material": "100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/t-shirt-simple-Yellow_1-768x960.jpg"
+      "genre": "sweater",
+      "name": "SWEATER ALLSTAR BLACK",
+      "price": "420.000",
+      "material": "Chân cua chính phẩm",
+      "picture": "https://lh3.google.com/u/0/d/1bEWFrbxLxfyxoO-QImDpY32S7GONbhEC=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 38,
-      "genre": "tshirt",
-      "name": "T-SHIRT SIMPLE BLACK",
-      "price": "320.000",
-      "material": "100% Cotton Chính Phẩm 4 chiều",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/t-shirt-simple-Black_1-768x960.jpg"
+      "genre": "sweater",
+      "name": "SWEATER ALLSTAR BLACK",
+      "price": "420.000",
+      "material": "Chân cua chính phẩm",
+      "picture": "https://lh3.google.com/u/0/d/1bEWFrbxLxfyxoO-QImDpY32S7GONbhEC=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 39,
-      "genre": "tshirt",
-      "name": "T-SHIRT AUTHENTIC BLACK",
-      "price": "290.000",
-      "material": "100% Cotton Chính Phẩm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/T-shirt-Authentic-Black-768x960.jpg"
+      "genre": "accessories",
+      "name": "TOTE SOLID",
+      "price": "100.000",
+      "material": "Vải Canvas",
+      "picture": "https://lh3.google.com/u/0/d/1BaCL_Mxfx5-B2qrrSEWNVXBhwzIjrYW1=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 40,
-      "genre": "tshirt",
-      "name": "T-SHIRT SIMPLE WHITE",
-      "price": "320.000",
-      "material": "100% Cotton Chính Phẩm 4 chiều",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/t-shirt-simple-white_1-768x960.jpg"
+      "genre": "accessories",
+      "name": "SHOULDER BAG 25",
+      "price": "280.000",
+      "material": "Vải Canvas",
+      "picture": "https://lh3.google.com/u/0/d/11l-Z3vhdaCN72JKfYwuG9FeB0zqjpcPC=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 41,
-      "genre": "tshirt",
-      "name": "T-SHIRT SIMPLE BLUE",
-      "price": "320.000",
-      "material": "100% Cotton Chính Phẩm 4 chiều",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/t-shirt-simple-Sunny-Green_1-768x960.jpg"
+      "genre": "accessories",
+      "name": "BACKPACK 83 BLACK",
+      "price": "315.000",
+      "material": "Vải Canvas",
+      "picture": "https://lh3.google.com/u/0/d/12BF6lJ2MSEA5nRPWJJvjCoMxakdoRSyx=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 42,
-      "genre": "sweater",
-      "name": "T-SHIRT SIMPLE BLUE",
-      "price": "320.000",
-      "material": "100% Cotton Chính Phẩm 4 chiều",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/t-shirt-simple-Sunny-Green_1-768x960.jpg"
+      "genre": "accessories",
+      "name": "BACKPACK 83 NAVY",
+      "price": "315.000",
+      "material": "Vải Canvas",
+      "picture": "https://lh3.google.com/u/0/d/13liIXdiKUlRbeFItLfGjTqB8F39vbS6Z=w300-h285-p-k-nu-iv1"
     },
     {
       "id": 43,
-      "genre": "sweater",
-      "name": "T-SHIRT SIMPLE BLUE",
-      "price": "320.000",
-      "material": "100% Cotton Chính Phẩm 4 chiều",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/t-shirt-simple-Sunny-Green_1-768x960.jpg"
-    },
-    {
-      "id": 44,
-      "genre": "sweater",
-      "name": "T-SHIRT SIMPLE BLUE",
-      "price": "320.000",
-      "material": "100% Cotton Chính Phẩm 4 chiều",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/11/t-shirt-simple-Sunny-Green_1-768x960.jpg"
-    },
-    {
-      "id": 45,
-      "genre": "accessories",
-      "name": "CAP S BLACK",
-      "price": "190.000",
-      "material": "Vải Canvas",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/cap-S-Black-768x960.jpg"
-    },
-    {
-      "id": 46,
       "genre": "accessories",
       "name": "CAP S GREEN",
       "price": "190.000",
       "material": "Vải Canvas",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/cap-S-Green-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1vQu1EK-pk8vxYJBlizjImIHBPs4dTy54=w300-h285-p-k-nu-iv1"
     },
     {
-      "id": 47,
-      "genre": "accessories",
-      "name": "CAP S TAN",
-      "price": "190.000",
-      "material": "Vải Canvas",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/cap-S-Tan-768x960.jpg"
-    },
-    {
-      "id": 48,
+      "id": 44,
       "genre": "accessories",
       "name": "CAP S BLUE ROYAL",
       "price": "190.000",
       "material": "Vải Canvas",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/cap-S-Blue-Royal-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1ncU7PzbGtzZIShna_lPrgy7jYdvdWVrU=w300-h285-p-k-nu-iv1"
     },
     {
-      "id": 50,
+      "id": 45,
       "genre": "accessories",
       "name": "HOLDER CARD GREY",
       "price": "190.000",
       "material": "Vải 600D có cán lớp PU chống thấm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/holder-card-grey-768x960.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1LxDAlg8l9SHXtFwWhWUiS20nyCJpffi9=w300-h285-p-k-nu-iv1"
     },
     {
-      "id": 51,
+      "id": 46,
       "genre": "accessories",
       "name": "HOLDER CARD BLACK",
       "price": "190.000",
       "material": "Vải 600D có cán lớp PU chống thấm",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/holder-card-black-768x960.jpg"
-    },
-    {
-      "id": 52,
-      "genre": "accessories",
-      "name": "BACKPACK DAYBACK1 LIGHTGREY",
-      "price": "490.000",
-      "material": "Vải dù Ripstop",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/bp-dayback1_LighGrey-768x960.jpg"
-    },
-    {
-      "id": 56,
-      "genre": "accessories",
-      "name": "BACKPACK DAYBACK1 BLACK",
-      "price": "490.000",
-      "material": "600D Polyester",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2022/01/bp-dayback1_black-768x960.jpg"
-    },
-    {
-      "id": 54,
-      "genre": "accessories",
-      "name": "BEANIE S TAN",
-      "price": "150.000",
-      "material": "Len được dệt và thêu chuẩn đến từng chi tiết",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/12/Beanie-S-Tan.jpg"
-    },
-    {
-      "id": 55,
-      "genre": "accessories",
-      "name": "BEANIE S GREY",
-      "price": "150.000",
-      "material": "Len được dệt và thêu chuẩn đến từng chi tiết",
-      "picture": "https://slyclothing.vn/wp-content/uploads/2021/12/Beanie-S-Grey.jpg"
+      "picture": "https://lh3.google.com/u/0/d/1xfr1yRzR_AhYa0F5Tz_OEWeyY0pRlxSP=w300-h285-p-k-nu-iv1"
     }
   ],
   "carts": [
-    {
-      "id-product": "55",
-      "product_name": "BEANIE S GREY",
-      "product_price": "150.000",
-      "product_picture": "https://slyclothing.vn/wp-content/uploads/2021/12/Beanie-S-Grey.jpg",
-      "amount": "4",
-      "id": 1
-    }
   ]
 }
